@@ -1,0 +1,41 @@
+body{
+    background-color:#b9bbbe;
+}
+
+.box1 {
+    padding: 30px;
+}
+.input{
+    border-radius: 5px;
+    padding: 4px;
+    margin-left: 9px;
+}
+p{
+    font-family: Algerian;
+    color: #1b1e21;
+}
+.range{
+
+}
+.title
+{
+    background-color:#e2e3e5;
+    text-align: center;
+    border-radius: 4px;
+    font-family: Andalus;
+}
+.table
+{
+    border:solid 3px #5a6268;
+}
+.result
+{
+    padding:9px;
+    margin-bottom:50px ;
+    border:solid 3px;
+}
+.rest
+{
+    text-align: center;
+
+}
